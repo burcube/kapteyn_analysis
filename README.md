@@ -1,8 +1,7 @@
 # Kapteyn_analysis
 
-Readme file gives something about something else 
-More information
-Renske was here
-Ania is to my right
-HI world!
--Malina
+Readme file gives something about something else More information Renske 
+was here Ania is to my right HI world! -Malina Added change to README 
+All the info
+Spongebob
+
